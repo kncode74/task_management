@@ -5,12 +5,6 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+![Simulator Screenshot - iPhone 15 Plus - 2024-05-03 at 16 38 19](https://github.com/kncode74/task_management/assets/69451462/f5f21d66-dfc1-4437-b7b3-12acdf1b56b3)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## test libraries for apply Task management
